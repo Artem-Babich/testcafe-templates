@@ -1,0 +1,6 @@
+.idea
+.vscode
+javascript/node_modules
+javascript/package-lock.json
+typescript/node_modules
+typescript/package-lock.json
