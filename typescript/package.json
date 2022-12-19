@@ -2,9 +2,9 @@
   "name": "basic-testcafe-example",
   "version": "1.0.0",
   "description": "Basic TestCafe API example",
-  "main": "tests/test.ts",
+  "main": "tests/examples/test.ts",
   "scripts": {
-    "test": "testcafe all tests/test.ts"
+    "test": "testcafe"
   },
   "repository": {
     "type": "git",
