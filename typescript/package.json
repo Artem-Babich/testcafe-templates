@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "Basic TestCafe API example",
   "main": "tests/examples/test.ts",
-  "scripts": {
-    "test": "testcafe"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/DevExpress/testcafe.git"
